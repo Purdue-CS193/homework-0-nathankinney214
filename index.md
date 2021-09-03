@@ -11,6 +11,15 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
+Hail, hail to old purdue!
+All hail to our old gold and black!
+Hail, hail to old purdue!
+Our friendship may she never lack.
+Ever grateful, ever true,
+Thus we raise our song anew
+Of the days we've spent with you,
+All hail our own purdue!
+
 # Header 1
 ## Header 2
 ### Header 3
