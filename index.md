@@ -20,15 +20,13 @@ Thus we raise our song anew
 Of the days we've spent with you,
 All hail our own purdue!
 
-# Header 1
-## Header 2
-### Header 3
+# Nathan Kinney's First CS193 Homework!
 
-- Bulleted
-- List
+# Things I Love About CS193!
 
-1. Numbered
-2. List
+- It's pretty easy!
+- Terminal is dope.
+- It helps with CS180 stuff.
 
 **Bold** and _Italic_ and `Code` text
 
